@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    padding-inline: 200px;
+}
+.header_right_links{
+    display: flex;
+    gap:20px;
+    font-size: 18px;
+    align-items: center;
+    color: #E5E7EB;
+}
